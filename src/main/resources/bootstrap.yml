@@ -5,6 +5,7 @@ spring:
     name: config-server
   cloud:
     config:
+      enabled: false
       server:
         git:
           uri: https://github.com/David110690/BOOTCAMPNTTDATA
