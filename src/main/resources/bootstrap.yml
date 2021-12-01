@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/David110690/BOOTCAMPNTTDATA
+          uri: https://github.com/David110690/BOOTCAMPNTTDATA.git
           searchPaths: config-data
           cloneOnStart: true
 
