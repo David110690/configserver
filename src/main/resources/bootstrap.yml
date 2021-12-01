@@ -10,4 +10,4 @@ spring:
           uri: https://github.com/David110690/BOOTCAMPNTTDATA
           searchPaths: config-data
           cloneOnStart: true
-          default-label: "master"
+
